@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\drupal
+   Date: Tuesday, September 20, 2011, 11:38:21 AM
+   SuperMemo 2008 (Build 14.05, Sep 2, 2010)
+
+
+Process completed at 11:38:21 AM in 00:00:00 sec (Tuesday, September 20, 2011)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________

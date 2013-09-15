@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: C:\SuperMemo\systems\supermemo_collections\learning supermemo\git
+   Date: Wednesday, August 03, 2011, 11:12:43 AM
+   SuperMemo 2008 (Build 14.05, Sep 2, 2010)
+
+Retention data errors can be ignored
+
+Process completed at 11:12:43 AM in 00:00:00 sec (Wednesday, August 03, 2011)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________

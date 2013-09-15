@@ -1,0 +1,86 @@
+SuperMemo Report
+   Activity: Collection integrity check and repairs
+   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL
+   Date: Thursday, September 22, 2011, 11:04:19 AM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+Checking 82 records
+Verifying integrity of element data (82 elements in elinfo.dat)
+Verifying contents.dat (82 elements)
+Verifying the priority queue of 82 elements
+Verifying repetition schedule (Workload.dat and ElInfo.dat)
+Verifying pending queue (intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Recovering registries and filespace references
+Rebuilding Text registry (146 members in a 150 member file)
+Rebuilding Template registry (14 members in a 14 member file)
+Rebuilding Font registry (0 members in a 0 member file)
+Rebuilding Reference registry (0 members in a 0 member file)
+Rebuilding Style registry (0 members in a 0 member file)
+Rebuilding Script registry (0 members in a 0 member file)
+Rebuilding Program registry (0 members in a 0 member file)
+Rebuilding Ole registry (0 members in a 0 member file)
+Rebuilding Video registry (0 members in a 0 member file)
+Rebuilding Image registry (0 members in a 0 member file)
+Rebuilding Sound registry (0 members in a 0 member file)
+Rebuilding Tasklist registry (1 members in a 1 member file)
+Rebuilding Category registry (1 members in a 1 member file)
+Registering components
+Registering references
+Transferring templates
+Verifying Text registry
+Verifying Font registry
+Verifying Reference registry
+Verifying Ole registry
+Verifying Image registry
+Verifying Sound registry
+Verifying Video registry
+Verifying Style registry
+Verifying Script registry
+Verifying Program registry
+Verifying Template registry
+Verifying Tasklist registry
+Warning! Registry member not used
+   Tasklist #1: "Tasks"
+Verifying Category registry
+Verifying OLE filespace
+Verifying image filespace
+Verifying sound filespace
+Verifying video filespace
+Verifying stylesheet filespace
+Verifying script filespace
+Verifying binary filespace
+Verifying text filespace
+Inspecting 123 filespace slots
+Unused filespace slot count: 2
+Checking for empty filespace slots
+Inspecting 2 empty filespace slot(s)
+Verifying repetition history
+Repetition history compressed from 2025 bytes to 2025 bytes
+Removing empty directories
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn
+Cannot delete file: 
+C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\entries
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\tmp
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\tmp\text-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\tmp\props
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\tmp\prop-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\text-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\props
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\DRUPAL\temp\.svn\prop-base
+
+Process completed at 11:04:19 AM in 00:00:00 sec (Thursday, September 22, 2011)
+
+NO ERRORS (Collection integrity check and repairs)
+
+____________________________________________________________
