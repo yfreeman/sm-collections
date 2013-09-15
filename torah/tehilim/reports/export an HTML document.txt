@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: export an HTML document
+   Collection: C:\MY FILES\SUPERMEMO_COLLECTIONS\torah\tehilim
+   Date: Sunday, September 04, 2011, 9:00:18 PM
+   SuperMemo 2008 (Build 14.05, Sep 2, 2010)
+
+
+Process completed at 9:00:31 PM in 00:00:12 sec (Sunday, September 04, 2011)
+
+NO ERRORS (Operation: export an HTML document)
+
+____________________________________________________________

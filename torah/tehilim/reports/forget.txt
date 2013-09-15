@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: forget
+   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM
+   Date: Friday, May 18, 2012, 12:55:54 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+
+Process completed at 12:55:54 PM in 00:00:00 sec (Friday, May 18, 2012)
+
+NO ERRORS (Operation: forget)
+
+____________________________________________________________

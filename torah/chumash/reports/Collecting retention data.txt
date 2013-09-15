@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\chumash
+   Date: Wednesday, October 19, 2011, 2:45:49 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+Retention data errors can be ignored
+
+Process completed at 2:45:49 PM in 00:00:00 sec (Wednesday, October 19, 2011)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________

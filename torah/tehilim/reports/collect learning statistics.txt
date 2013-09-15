@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: collect learning statistics
+   Collection: C:\MY FILES\SUPERMEMO_COLLECTIONS\torah\tehilim
+   Date: Sunday, September 04, 2011, 5:18:07 PM
+   SuperMemo 2008 (Build 14.05, Sep 2, 2010)
+
+
+Process completed at 5:18:07 PM in 00:00:00 sec (Sunday, September 04, 2011)
+
+NO ERRORS (Operation: collect learning statistics)
+
+____________________________________________________________

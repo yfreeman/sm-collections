@@ -1,0 +1,177 @@
+SuperMemo Report
+   Activity: Collection integrity check and repairs
+   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM
+   Date: Friday, May 18, 2012, 2:08:48 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+Checking 2768 records
+Verifying integrity of element data (2768 elements in elinfo.dat)
+Verifying contents.dat (2768 elements)
+151 children at Topic #2060: Chapter 119
+Verifying the priority queue of 2731 elements
+Verifying repetition schedule (Workload.dat and ElInfo.dat)
+Verifying pending queue (intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Recovering registries and filespace references
+Rebuilding Text registry (5858 members in a 6067 member file)
+Rebuilding Template registry (14 members in a 14 member file)
+Rebuilding Font registry (0 members in a 0 member file)
+Rebuilding Reference registry (0 members in a 0 member file)
+Rebuilding Style registry (0 members in a 0 member file)
+Rebuilding Script registry (0 members in a 0 member file)
+Rebuilding Program registry (0 members in a 0 member file)
+Rebuilding Ole registry (0 members in a 0 member file)
+Rebuilding Video registry (0 members in a 0 member file)
+Rebuilding Image registry (0 members in a 0 member file)
+Rebuilding Sound registry (0 members in a 0 member file)
+Rebuilding Tasklist registry (1 members in a 1 member file)
+Rebuilding Category registry (3 members in a 3 member file)
+Registering components
+Warning! Dismissing empty element:
+   Topic #2687: Review
+Warning! Dismissing empty element:
+   Topic #2693: vocab
+Warning! Dismissing empty element:
+   Topic #2721: ??? ?
+Registering references
+Transferring templates
+Verifying Text registry
+Warning! Registry member not used
+   Text #463: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\20\2605.HTM"
+Warning! Registry member not used
+   Text #5092: "Slot beyond file space|Extending the filespace to 2611 slots|Filespace=2605||∂?◊-?ô?∞?î?ï?∏?îº?"
+Warning! Registry member not used
+   Text #5324: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\21\2613"
+Warning! Registry member not used
+   Text #5646: "78 ?? ?????????? ??????????? | ??????? ???????????? ???????? ???????? ???????????? ????????????? ???????? ???????????"
+Warning! Registry member not used
+   Text #5647: "78 ?? ???????? ????????? | ??????? ?????????? ?????????? ?????????#duplicate"
+Warning! Registry member not used
+   Text #5648: "Their offsprint you will perish from this earth, their descendants from mankindu?"
+Warning! Registry member not used
+   Text #5649: "8\20\2601shem. Test me, refine my mind and heart"
+Warning! Registry member not used
+   Text #5650: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\20\26"
+Warning! Registry member not used
+   Text #5651: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\20\"
+Warning! Registry member not used
+   Text #5652: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\20\2604"
+Warning! Registry member not used
+   Text #5653: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\20\2606.HTM"
+Warning! Registry member not used
+   Text #5654: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\20\2607.HTM"
+Warning! Registry member not used
+   Text #5655: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\2"
+Warning! Registry member not used
+   Text #5656: "!C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\20\26"
+Warning! Registry member not used
+   Text #5657: "8\20\2610tions gather, and people spew futi"
+Warning! Registry member not used
+   Text #5658: "89.. .. ? ???????? ??????? ?????? ????????? ????? ????? | ???????? ??????????? ???????"
+Warning! Registry member not used
+   Text #5659: "Slot beyond file space|Extending the filespace to 2614 slots|Filespace=2613||th your possess"
+Warning! Registry member not used
+   Text #5660: "Their offsprint you will perish from this earth, their descendants from mankindu?µ?ó?∏ | ?ó?ê?ñ?≤?ó?Ä??ñ?π?ó?†?ñ?∏?ó?Ñ¢ ?ó?Ä˜?ñ?º?ñ?∞?ó?Äô?ñ?¥?ó?Äò?ñ?º?ó?Ä¢?ñ?π?ó?® ..."
+Warning! Registry member not used
+   Text #5661: "86 ?ô?ì ?ê?±???π?î?¥?ô?ù | ?ñ?µ?ì?¥?ô?ù ?ß?∏???ï?º ?¢?∏???∑?ô ?ï?∑?Ω?¢?≤?ì?∑?◊ ?¢?∏?®?¥?ô?¶?¥?ô?ù ?ë?º?¥?ß?∞?©?Å?ï?º ?†?∑???∞?©?Å?¥?ô ?ï?∞???π?ê ?©?Ç?∏???ï?º???∏ ..."
+Warning! Registry member not used
+   Text #5662: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\21\2616.HTM"
+Warning! Registry member not used
+   Text #5663: "78 ?? ????????? ?????? ????? ??????????? ????????????? ???????????????"
+Warning! Registry member not used
+   Text #5664: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\21\2617.HTM"
+Warning! Registry member not used
+   Text #5665: "85.. .. ? ??????????? ???????-????? ????????d"
+Warning! Registry member not used
+   Text #5666: "Slot beyond file space|Extending the filespace to 2619 slots|Filespace=2618||eart they speak"
+Warning! Registry member not used
+   Text #5667: "Slot beyond file space|Extending the filespace to 2620 slots|Filespace=2619||eart they spe"
+Warning! Registry member not used
+   Text #5668: "Set, Hashem, your mastery over them. Let nations know they are but frail men. Sela"
+Warning! Registry member not used
+   Text #5669: "Fear of Hashem is pure, abiding forever, the judgements of Hashem are true, they are all righteous together.Ω?®"
+Warning! Registry member not used
+   Text #5670: "Let integrity and upright guard me, for my hope is i"
+Warning! Registry member not used
+   Text #5671: "Know, Hashem makes judgement and executes, in the work of their own hand the evilone are caught. Reflect on this Alw"
+Warning! Registry member not used
+   Text #5672: "C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\22\2625.HTM"
+Warning! Registry member not used
+   Text #5673: "Lest they tear out like a lion my soul, crushing, and there is no one to rescue."
+Warning! Registry member not used
+   Text #5674: "!Lest they tear out like a lion my soul, crushing, and there is no one to rescue."
+Verifying Font registry
+Verifying Reference registry
+Verifying Ole registry
+Verifying Image registry
+Verifying Sound registry
+Verifying Video registry
+Verifying Style registry
+Verifying Script registry
+Verifying Program registry
+Verifying Template registry
+Warning! Template registry reference list cut to 500 members
+   Template #13: "Item"
+   Members listed: 2574
+Verifying Tasklist registry
+Warning! Registry member not used
+   Tasklist #1: "Tasks"
+Verifying Category registry
+Wrong length of registry reference list for Category #2: "vocal"
+   Count: reported=29 found=1
+   Registry: category
+Wrong length of registry reference list for Category #3: "??? ?"
+   Count: reported=49 found=48
+   Registry: category
+3 empty elements found
+Verifying OLE filespace
+Verifying image filespace
+Verifying sound filespace
+Verifying video filespace
+Verifying stylesheet filespace
+Verifying script filespace
+Verifying binary filespace
+Verifying text filespace
+Non-empty filespace slot #2797
+Path=C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\registry\Text
+Use File : Repair collection to check your data
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Duplicating file: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\8\22\2628.HTM
+   Clone slot: #2797
+   Original member: Text #5699: "Add iniquities to their iniquities, and let them not enter your righteousness"
+   Cloned member: Text #5700: "Erase them from the book of life, with the righteous do not write them"
+Inspecting 2882 filespace slots
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Transferring stray file 2791.HTM
+   From: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\elements\9\9\2791.HTM
+   To: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\recover\2791.HTM
+Unused filespace slot count: 2
+Checking for empty filespace slots
+Inspecting 2 empty filespace slot(s)
+Removing empty directories
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn
+Cannot delete file: 
+C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\entries
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\tmp
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\tmp\text-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\tmp\props
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\tmp\prop-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\text-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\props
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM\temp\.svn\prop-base
+
+Process completed at 2:08:54 PM in 00:00:06 sec (Friday, May 18, 2012)
+
+2 ERRORS (Collection integrity check and repairs)
+
+____________________________________________________________

@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: stop ignoring
+   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM
+   Date: Friday, August 03, 2012, 1:03:51 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+
+Process completed at 1:03:51 PM in 00:00:00 sec (Friday, August 03, 2012)
+
+NO ERRORS (Operation: stop ignoring)
+
+____________________________________________________________

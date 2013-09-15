@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: reset repetition history
+   Collection: C:\MY FILES\SUPERMEMO_COLLECTIONS\TORAH\TEHILIM
+   Date: Wednesday, August 31, 2011, 10:06:50 PM
+   SuperMemo 2008 (Build 14.05, Sep 2, 2010)
+
+
+Process completed at 10:07:19 PM in 00:00:28 sec (Wednesday, August 31, 2011)
+
+NO ERRORS (Operation: reset repetition history)
+
+____________________________________________________________
