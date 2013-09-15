@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: C:\MY FILES\SUPERMEMO_COLLECTIONS\sciences\anatomy
+   Date: Sunday, August 14, 2011, 11:32:40 PM
+   SuperMemo 2008 (Build 14.05, Sep 2, 2010)
+
+
+Process completed at 11:32:40 PM in 00:00:00 sec (Sunday, August 14, 2011)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
