@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\programming languages\c-sharp
+   Date: Monday, August 22, 2011, 10:45:19 AM
+   SuperMemo 2008 (Build 14.05, Sep 2, 2010)
+
+
+Process completed at 10:45:19 AM in 00:00:00 sec (Monday, August 22, 2011)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
