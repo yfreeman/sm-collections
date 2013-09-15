@@ -1,0 +1,180 @@
+SuperMemo Report
+   Activity: Collection integrity check and repairs
+   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO
+   Date: Monday, December 19, 2011, 4:56:13 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+Checking 41 records
+Verifying integrity of element data (41 elements in elinfo.dat)
+Verifying contents.dat (41 elements)
+Verifying the priority queue of 41 elements
+Verifying repetition schedule (Workload.dat and ElInfo.dat)
+Verifying pending queue (intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Recovering registries and filespace references
+Rebuilding Text registry (75 members in a 78 member file)
+Rebuilding Template registry (15 members in a 15 member file)
+Rebuilding Font registry (0 members in a 0 member file)
+Rebuilding Reference registry (0 members in a 0 member file)
+Rebuilding Style registry (0 members in a 0 member file)
+Rebuilding Script registry (0 members in a 0 member file)
+Rebuilding Program registry (0 members in a 0 member file)
+Rebuilding Ole registry (0 members in a 0 member file)
+Rebuilding Video registry (0 members in a 0 member file)
+Rebuilding Image registry (3 members in a 3 member file)
+Rebuilding Sound registry (0 members in a 0 member file)
+Rebuilding Tasklist registry (1 members in a 1 member file)
+Rebuilding Category registry (6 members in a 6 member file)
+Registering components
+Element does not belong to the indicated category
+   Topic #2: program concepts
+   Category #6: "program concepts"
+Warning! Dismissing empty element:
+   Topic #3: icons
+Element does not belong to the indicated category
+   Item #13: ctrl + W
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #14: Which category do new element get added to when click "add new" or Alt + A
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #15: What is the keyboard shortcut to display the "workload" window? Shows the learning schedule
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #16: How do you put an element from the "pending queue" into the learning process?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #17: What happens when you are in "content window" right click cateogry -> category -> set hook category?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #18: alt + C
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #19: what is a hook category?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #20: What is the shortcut to view the "contents" window?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #21: How do you "dismiss" an entire branch?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #22: What is "dismiss" in supermemo?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #23: How do you add an image to an element?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #24: What is the "pending queue"?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #25: What is the process of adding an image component to a supermemo element?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #26: When inserting an image component is it empty?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #27: If you are using an image over many times in different elements, how do you prevent supermemo from copying it over and over?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #28: What is the Image Registry used for?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #29: How do you remove an item from the learning process? so it won't be schedules for learning in the future?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #30: What is the "learning process" in supermemo?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #31: What happens when you "forget" and item?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #32: What happens to an item/element when you "remember" it?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #33: How do you un-"dimiss" and item?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #34: How do you import images into the image registry?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #37: How do you add an image from the image registry to an element in supermemo?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #38: How do you add a component to an element?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #39: What is the shortcut to "Dismiss" and item?
+   Category #6: "program concepts"
+Element does not belong to the indicated category
+   Item #40: Ctrl + D.. ..  what does the following shortcut do in supermemo?
+   Category #6: "program concepts"
+Registering references
+Transferring templates
+Verifying Text registry
+Verifying Font registry
+Verifying Reference registry
+Verifying Ole registry
+Verifying Image registry
+Verifying Sound registry
+Verifying Video registry
+Verifying Style registry
+Verifying Script registry
+Verifying Program registry
+Verifying Template registry
+Verifying Tasklist registry
+Warning! Registry member not used
+   Tasklist #1: "Tasks"
+Verifying Category registry
+Warning! Registry member not used
+   Category #1: "learning supermemo"
+Warning! Registry member not used
+   Category #3: "learning supermemoY"
+Wrong reference count for Category #6: "program concepts"
+   Count: reported=30 found=3
+   Registry: category
+Wrong length of registry reference list for Category #6: "program concepts"
+   Count: reported=30 found=3
+   Registry: category
+1 empty elements found
+Verifying OLE filespace
+Verifying image filespace
+Verifying sound filespace
+Verifying video filespace
+Verifying stylesheet filespace
+Verifying script filespace
+Verifying binary filespace
+Verifying text filespace
+Inspecting 72 filespace slots
+Unused filespace slot count: 1
+Checking for empty filespace slots
+Inspecting 1 empty filespace slot(s)
+Verifying repetition history
+Repetition history compressed from 2775 bytes to 2375 bytes
+Removing empty directories
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn
+Cannot delete file: 
+C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\entries
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\tmp
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\tmp\text-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\tmp\props
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\tmp\prop-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\text-base
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\props
+Warning! Deleting directory
+   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\LEARNING SUPERMEMO\LEARNING SUPERMEMO\temp\.svn\prop-base
+
+Process completed at 4:56:13 PM in 00:00:00 sec (Monday, December 19, 2011)
+
+NO ERRORS (Collection integrity check and repairs)
+
+____________________________________________________________
