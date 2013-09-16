@@ -1,8 +1,8 @@
 SuperMemo Report
    Activity: Collection integrity check and repairs
-   Collection: C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT
-   Date: Monday, September 26, 2011, 1:17:04 PM
-   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+   Collection: C:\USERS\YFREEMAN\GITHUB-REPOSITORIES\SM-COLLECTIONS\SOFTWARE\GIT
+   Date: Sunday, September 15, 2013, 8:18:41 PM
+   SuperMemo 15 (Build 15.4, Feb 23, 2013)
 
 Checking 184 records
 Verifying integrity of element data (184 elements in elinfo.dat)
@@ -11,8 +11,8 @@ Verifying the priority queue of 182 elements
 Verifying repetition schedule (Workload.dat and ElInfo.dat)
 Verifying pending queue (intact.dat)
 Verifying A-Factor, Lapses and Repetitions distributions
-Recovering registries
-Rebuilding Text registry (413 members in a 429 member file)
+Recovering registries and filespace references
+Rebuilding Text registry (415 members in a 432 member file)
 Rebuilding Template registry (14 members in a 14 member file)
 Rebuilding Font registry (0 members in a 0 member file)
 Rebuilding Reference registry (0 members in a 0 member file)
@@ -43,54 +43,23 @@ Verifying Tasklist registry
 Warning! Registry member not used
    Tasklist #1: "Tasks"
 Verifying Category registry
-Wrong length of registry reference list for Category #1: "git"
-   Count: reported=181 found=180
-   Registry: category
-Verifying repetition history
-Repetition history compressed from 10.8 kB to 10.6 kB
+Verifying OLE filespace
+Verifying image filespace
+Verifying sound filespace
+Verifying video filespace
+Verifying stylesheet filespace
+Verifying script filespace
+Verifying binary filespace
+Verifying text filespace
+Inspecting 352 filespace slots
+Unused filespace slot count: 5
+Checking for empty filespace slots
+Inspecting 5 empty filespace slot(s)
 Removing empty directories
 Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn
-Cannot delete file: 
-C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\entries
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\tmp
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\tmp\text-base
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\tmp\props
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\tmp\prop-base
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\text-base
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\props
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\subsets\tmp\.svn\prop-base
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn
-Cannot delete file: 
-C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\entries
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\tmp
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\tmp\text-base
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\tmp\props
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\tmp\prop-base
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\text-base
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\props
-Warning! Deleting directory
-   C:\SUPERMEMO\SYSTEMS\SUPERMEMO_COLLECTIONS\SOFTWARE\GIT\temp\.svn\prop-base
+   C:\USERS\YFREEMAN\GITHUB-REPOSITORIES\SM-COLLECTIONS\SOFTWARE\GIT\temp\
 
-Process completed at 1:17:05 PM in 00:00:01 sec (Monday, September 26, 2011)
+Process completed at 8:18:41 PM in 00:00:00 sec (Sunday, September 15, 2013)
 
 NO ERRORS (Collection integrity check and repairs)
 
