@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: C:\USERS\YFREEMAN\GITHUB-REPOSITORIES\SM-COLLECTIONS\TORAH\lekuteisichos
+   Date: Wednesday, October 02, 2013, 11:05:10 PM
+   SuperMemo 15 (Build 15.4, Feb 23, 2013)
+
+
+Process completed at 11:05:10 PM in 00:00:00 sec (Wednesday, October 02, 2013)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
