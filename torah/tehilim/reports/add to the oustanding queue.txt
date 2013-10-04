@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: add to the oustanding queue
+   Collection: C:\USERS\YFREEMAN\GITHUB-REPOSITORIES\SM-COLLECTIONS\TORAH\TEHILIM
+   Date: Thursday, October 03, 2013, 11:58:15 PM
+   SuperMemo 15 (Build 15.4, Feb 23, 2013)
+
+
+Process completed at 11:58:15 PM in 00:00:00 sec (Thursday, October 03, 2013)
+
+NO ERRORS (Operation: add to the oustanding queue)
+
+____________________________________________________________
