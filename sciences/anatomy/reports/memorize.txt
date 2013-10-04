@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: memorize
+   Collection: C:\USERS\YFREEMAN\GITHUB-REPOSITORIES\SM-COLLECTIONS\SCIENCES\ANATOMY
+   Date: Thursday, October 03, 2013, 11:49:06 PM
+   SuperMemo 15 (Build 15.4, Feb 23, 2013)
+
+
+Process completed at 11:49:06 PM in 00:00:00 sec (Thursday, October 03, 2013)
+
+NO ERRORS (Operation: memorize)
+
+____________________________________________________________
