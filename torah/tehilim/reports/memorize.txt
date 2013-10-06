@@ -1,11 +1,11 @@
 SuperMemo Report
    Activity: Operation: memorize
    Collection: C:\USERS\YFREEMAN\GITHUB-REPOSITORIES\SM-COLLECTIONS\TORAH\TEHILIM
-   Date: Thursday, October 03, 2013, 11:57:28 PM
+   Date: Sunday, October 06, 2013, 12:31:45 AM
    SuperMemo 15 (Build 15.4, Feb 23, 2013)
 
 
-Process completed at 11:57:28 PM in 00:00:00 sec (Thursday, October 03, 2013)
+Process completed at 12:31:45 AM in 00:00:00 sec (Sunday, October 06, 2013)
 
 NO ERRORS (Operation: memorize)
 
